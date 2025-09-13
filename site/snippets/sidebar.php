@@ -21,6 +21,8 @@
 <h6><a href="<?= $article->url() ?>"><?= html($article->title()) ?></a></h6>
 <?php endforeach ?>
 </div>
+<!-- Ads section hidden -->
+<!-- 
 <hr />
 <div class="widget">
   <h5 class="subheader">Ads</h5>
@@ -49,3 +51,4 @@
     </div>
   </div>
 </div>
+-->
